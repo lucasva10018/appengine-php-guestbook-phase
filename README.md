@@ -1,4 +1,4 @@
-C-Users-Windows-8.1-Downloads-Compressed-appengine-php-guestbook-phase0-helloworld.zip
+appengine-php-guestbook-phase0-helloworld
 ======================================================================================
 
 Sumber : https://cloud.google.com/appengine/docs/php/gettingstarted/helloworld
